@@ -1,6 +1,6 @@
 **README**
 
-## Type Writer - DSA LAB V8
+## Type Writer Project - DSA C++
 
 This is a console-based text editor developed using C++ as a part of a Data Structures and Algorithms lab project. It allows users to create, edit, save, and load text files.
 
